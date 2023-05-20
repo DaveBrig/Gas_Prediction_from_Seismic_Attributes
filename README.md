@@ -1,1 +1,1 @@
-# Gas_Prediction_from_Seismic_Attributes
+# Gas_Probability_from_Seismic_Attributes
